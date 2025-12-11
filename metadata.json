@@ -1,0 +1,5 @@
+{
+  "name": "TrackFast Analytics Demo",
+  "description": "A high-fidelity e-commerce analytics simulator demonstrating customer journey tracking with real-time event logging and explanation.",
+  "requestFramePermissions": []
+}
